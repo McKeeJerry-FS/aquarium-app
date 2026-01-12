@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aquarium.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c9e5acac38d530f39fd7d4dddfc8648cbffd8530")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54bc7158e03118dbdd59f4ea90cd7f406a9948a0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aquarium.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aquarium.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -6,10 +6,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "aquarium-app-server", "aqua
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aquarium.Api", "aquarium-app-server\Aquarium.Api\Aquarium.Api.csproj", "{5F66A6A9-FBCD-8B38-2CFC-533B422CF3A3}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "aquarium-app-web-frontend", "aquarium-app-web-frontend", "{EE689DBB-ACD6-782F-BAB0-2516EFA1708B}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "aquarium-app-mobile-frontend", "aquarium-app-mobile-frontend", "{05EE2F84-C612-6343-36E2-1F173A3BFE35}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
